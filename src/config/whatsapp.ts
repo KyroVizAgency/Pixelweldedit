@@ -1,7 +1,7 @@
 export const WHATSAPP_CONFIG = {
-  displayNumber: '+91 89622 59884',
-  e164Digits: '918962259884',
-  baseUrl: 'https://wa.me/918962259884',
+  displayNumber: '+91 88158 92213',
+  e164Digits: '918815892213',
+  baseUrl: 'https://wa.me/918815892213',
   defaultMessage:
     "Hi Pixelweldedits! I'm interested in discussing a video editing project. Let's connect.",
 } as const;
